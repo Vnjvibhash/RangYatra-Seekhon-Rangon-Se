@@ -1,0 +1,290 @@
+{
+    "levels": {
+        "level1": [
+            {
+                "name": "Violet",
+                "code": "#8A2BE2"
+            },
+            {
+                "name": "Indigo",
+                "code": "#4B0082"
+            },
+            {
+                "name": "Blue",
+                "code": "#0000FF"
+            },
+            {
+                "name": "Green",
+                "code": "#008000"
+            },
+            {
+                "name": "Yellow",
+                "code": "#FFFF00"
+            },
+            {
+                "name": "Orange",
+                "code": "#FFA500"
+            },
+            {
+                "name": "Red",
+                "code": "#FF0000"
+            }
+        ],
+        "level2": [
+            {
+                "name": "Cyan",
+                "code": "#00FFFF"
+            },
+            {
+                "name": "Magenta",
+                "code": "#FF00FF"
+            },
+            {
+                "name": "Lime",
+                "code": "#00FF00"
+            },
+            {
+                "name": "Teal",
+                "code": "#008080"
+            },
+            {
+                "name": "Brown",
+                "code": "#A52A2A"
+            },
+            {
+                "name": "Coral",
+                "code": "#FF7F50"
+            },
+            {
+                "name": "Gold",
+                "code": "#FFD700"
+            },
+            {
+                "name": "Navy",
+                "code": "#000080"
+            },
+            {
+                "name": "Olive",
+                "code": "#808000"
+            },
+            {
+                "name": "Indigo",
+                "code": "#4B0082"
+            }
+        ],
+        "level3": [
+            {
+                "name": "Violet",
+                "code": "#EE82EE"
+            },
+            {
+                "name": "Salmon",
+                "code": "#FA8072"
+            },
+            {
+                "name": "Crimson",
+                "code": "#DC143C"
+            },
+            {
+                "name": "Slate Blue",
+                "code": "#6A5ACD"
+            },
+            {
+                "name": "Peach",
+                "code": "#FFDAB9"
+            },
+            {
+                "name": "Lavender",
+                "code": "#E6E6FA"
+            },
+            {
+                "name": "Mint Green",
+                "code": "#98FF98"
+            },
+            {
+                "name": "Steel Blue",
+                "code": "#4682B4"
+            },
+            {
+                "name": "Periwinkle",
+                "code": "#CCCCFF"
+            },
+            {
+                "name": "Chocolate",
+                "code": "#D2691E"
+            },
+            {
+                "name": "Light Coral",
+                "code": "#F08080"
+            },
+            {
+                "name": "Turquoise",
+                "code": "#40E0D0"
+            },
+            {
+                "name": "Light Green",
+                "code": "#90EE90"
+            },
+            {
+                "name": "Tomato",
+                "code": "#FF6347"
+            },
+            {
+                "name": "Wheat",
+                "code": "#F5DEB3"
+            }
+        ],
+        "level4": [
+            {
+                "name": "Misty Rose",
+                "code": "#FFE4E1"
+            },
+            {
+                "name": "Khaki",
+                "code": "#F0E68C"
+            },
+            {
+                "name": "Dark Green",
+                "code": "#006400"
+            },
+            {
+                "name": "Dark Blue",
+                "code": "#00008B"
+            },
+            {
+                "name": "Firebrick",
+                "code": "#B22222"
+            },
+            {
+                "name": "Slate Gray",
+                "code": "#708090"
+            },
+            {
+                "name": "Medium Orchid",
+                "code": "#BA55D3"
+            },
+            {
+                "name": "Medium Sea Green",
+                "code": "#3CB371"
+            },
+            {
+                "name": "Sandy Brown",
+                "code": "#F4A460"
+            },
+            {
+                "name": "Royal Blue",
+                "code": "#4169E1"
+            },
+            {
+                "name": "Dark Orchid",
+                "code": "#9932CC"
+            },
+            {
+                "name": "Sea Green",
+                "code": "#2E8B57"
+            },
+            {
+                "name": "Aqua",
+                "code": "#00FFFF"
+            },
+            {
+                "name": "Dark Salmon",
+                "code": "#E9967A"
+            },
+            {
+                "name": "Light Sky Blue",
+                "code": "#87CEFA"
+            },
+            {
+                "name": "Deep Pink",
+                "code": "#FF1493"
+            }
+        ],
+        "level5": [
+            {
+                "name": "Medium Violet Red",
+                "code": "#C71585"
+            },
+            {
+                "name": "Light Slate Gray",
+                "code": "#778899"
+            },
+            {
+                "name": "Spring Green",
+                "code": "#00FF7F"
+            },
+            {
+                "name": "Powder Blue",
+                "code": "#B0E0E6"
+            },
+            {
+                "name": "Dodger Blue",
+                "code": "#1E90FF"
+            },
+            {
+                "name": "Honeydew",
+                "code": "#F0FFF0"
+            },
+            {
+                "name": "Lavender Blush",
+                "code": "#FFF0F5"
+            },
+            {
+                "name": "Linen",
+                "code": "#FAF0E6"
+            },
+            {
+                "name": "Light Goldenrod Yellow",
+                "code": "#FAFAD2"
+            },
+            {
+                "name": "Dark Khaki",
+                "code": "#BDB76B"
+            },
+            {
+                "name": "Antique White",
+                "code": "#FAEBD7"
+            },
+            {
+                "name": "Dark Turquoise",
+                "code": "#00CED1"
+            },
+            {
+                "name": "Coral Reef",
+                "code": "#FF6F61"
+            },
+            {
+                "name": "Light Sea Green",
+                "code": "#20B2AA"
+            },
+            {
+                "name": "Sea Shell",
+                "code": "#FFF5EE"
+            },
+            {
+                "name": "Floral White",
+                "code": "#FFFAF0"
+            },
+            {
+                "name": "Lavender Gray",
+                "code": "#C4C3D0"
+            },
+            {
+                "name": "Rosy Brown",
+                "code": "#BC8F8F"
+            },
+            {
+                "name": "Goldenrod",
+                "code": "#DAA520"
+            },
+            {
+                "name": "Slate Grey",
+                "code": "#708090"
+            },
+            {
+                "name": "Medium Turquoise",
+                "code": "#48D1CC"
+            }
+        ]
+    }
+}
